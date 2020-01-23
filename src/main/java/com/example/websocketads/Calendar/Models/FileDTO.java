@@ -1,4 +1,4 @@
-package Calendar.Models;
+package com.example.websocketads.Calendar.Models;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
